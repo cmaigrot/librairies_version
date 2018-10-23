@@ -1,0 +1,1 @@
+ssh silex 'COMMAND'
